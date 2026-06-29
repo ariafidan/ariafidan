@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi,  I am Dicle Fidan 👋
 
-<!--
-**ariafidan/ariafidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student who mostly works in **Python**. Lately I've been digging into **IT security** by learning how systems break and how to defend them. 
 
-Here are some ideas to get you started:
+### What I'm into right now
+- Learning the fundamentals of IT / cybersecurity (networking, common vulnerabilities, secure coding) by doing Google Cybersecurity certification
+- Building small Python projects to apply what I learn
+- Sharpening my problem-solving with practice challenges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I work with
+- **Python** is my main language
+- Comfortable with the basics of Git, the command line, and SQL
+
+*(I would rather list a few things I actually use than a wall of logos.)*
+
+### A few things I've built
+- **[Brute-Force Login Detector](https://github.com/ariafidan/brute-force-login)** — Parses server logs and flags IP addresses with repeated failed logins in a short time window, using a sliding-window approach. Python.
+- **[Phishing URL Checker](https://github.com/ariafidan/phishing-url-checker)** — Analyzes URLs for common phishing signals (IP-address hosts, `@`-redirect tricks, excessive subdomains, suspicious keywords) and combines them into a risk score. Python
+
+### Let's connect
+- LinkedIn: [(https://www.linkedin.com/in/dicle-fidan-5b4a41330/)]
+
