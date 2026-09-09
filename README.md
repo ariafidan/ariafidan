@@ -4,7 +4,7 @@ Computer science student who mostly works in **Python**. Lately I've been diggin
 
 ### What I'm into right now
 - Learning the fundamentals of IT / cybersecurity (networking, common vulnerabilities, secure coding) by doing Google Cybersecurity certification
-- Building small Python projects to apply what I learn
+- Building small Python projects to apply what I learn and learn Data science with SQL
 - Sharpening my problem-solving with practice challenges
 
 ### Tech I work with
